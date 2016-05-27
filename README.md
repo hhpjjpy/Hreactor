@@ -1,6 +1,7 @@
 # Hreactor
 # 一个reactor模式的，多线程高性能TCP网络库，参考陈硕的muduo网络库设计。
-#基于 1.C++11标准
+#基于 
+#     1.C++11标准
 #     2.pthread 线程，里面包含使用C++ RAII模式对mutex和condtion的简单封装，以及线程池实现
 #     3.reactor底层由epoll驱动，水平触发，只支持Linux
 #     4. 使用优先队列（堆）和timefd 实现定时器。
