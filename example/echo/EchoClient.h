@@ -1,7 +1,7 @@
 #pragma once
 #ifndef  ECHOCLIENT_H
 #define  ECHOCLIENT_H
-#include "../../TcpClient.h"
+#include "TcpClient.h"
 
 class EchoClient {
 public:

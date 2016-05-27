@@ -1,7 +1,7 @@
 #pragma once
 #ifndef ECHOSERVER_H
 #define ECHOSERVER_H
-#include "../../TcpServer.h"
+#include "TcpServer.h"
 
 class EchoServer {
 public:

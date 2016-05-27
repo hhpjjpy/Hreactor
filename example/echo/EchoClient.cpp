@@ -1,5 +1,5 @@
 #include "EchoClient.h"
-#include "../../Log.h"
+#include "Log.h"
 
 int main() {
 	INITLOG("EchoClient","./log");
